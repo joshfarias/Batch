@@ -19,7 +19,7 @@ This batch file prompts the user to enter the source and backup folder paths the
     - `/h` copies hidden and system files.
     - `/i` assumes destination is directory and creates it if it doesn't exist.
     - `/y` suppresses confirmation prompt for overwriting files.
-- `echo` prints the success message to console.
+- `echo` prints "backup complete" message to console.
 - `pause` stops program from quiting after termination so user can see results.
 
 Below is a screenshot of the script in action:
