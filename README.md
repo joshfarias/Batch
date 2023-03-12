@@ -1,5 +1,5 @@
 <h1>
-  <img src="https://github.com/joshfarias/Batch/blob/main/images/cmd.png" alt="cmd" height="45">
+  <img src="https://github.com/joshfarias/Batch/blob/main/images/cmd.png" alt="cmd" height="60">
   Batch
 </h1>
 Repo for Windows Batch scripts.
