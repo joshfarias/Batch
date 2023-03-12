@@ -22,7 +22,7 @@ This batch file prompts the user to enter the source and backup folder paths the
 - `echo` prints the success message to console.
 - `pause` stops program from quiting after termination so user can see results.
 
-Below is a screenshot showing the program in action:
+Below is a screenshot of the script in action:
 
 <h1>
 <img src="https://github.com/joshfarias/Batch/blob/main/images/backup.png" alt="backup" height="400">
