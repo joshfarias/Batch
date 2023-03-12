@@ -2,7 +2,7 @@
 :: 
 ::      Program Name: backup.bat	
 :: 
-::	    Description: Prompts for user to input
+::	Description: Prompts for user to input
 ::      directory paths to backup files
 ::
 ::      Language: Batch
